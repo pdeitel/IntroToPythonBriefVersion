@@ -1,5 +1,5 @@
 # IntroToPythonBriefVersion
-This repository contains the source code and supporting files associated with our Pearson Revel interactive multimedia product: "Intro to Python for Computer Science and Data Science: Brief Version".</a>
+This repository contains the source code and supporting files associated with our Pearson Revel interactive multimedia textbook "Intro to Python for Computer Science and Data Science: Brief Version," which corresponds to Chapters 1-11 of our textbook <a href="https://deitel.com/intro-to-python-for-computer-science-and-data-science"> "Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and the Cloud."</a>
     
 These files are Copyright 2022 by Pearson Education, Inc. All Rights Reserved. 
 
