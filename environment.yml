@@ -1,0 +1,14 @@
+name: py3_10
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipympl
+  - ipython
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - nodejs
+  - numpy
+  - python=3.10
+  - seaborn

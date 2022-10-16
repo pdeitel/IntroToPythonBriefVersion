@@ -4,7 +4,7 @@ from matplotlib import animation
 import matplotlib.pyplot as plt
 import random 
 import seaborn as sns
-import sys
+import sys 
 
 def update(frame_number, rolls, faces, frequencies):
     """Configures bar plot contents for each animation frame."""
