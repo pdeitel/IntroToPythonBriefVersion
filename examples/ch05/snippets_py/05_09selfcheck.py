@@ -1,4 +1,4 @@
-# Section 5.9 Self Checksnippets
+# Section 5.9 Self Check snippets
 
 # Exercise 3
 numbers = [67, 12, 46, 43, 13]

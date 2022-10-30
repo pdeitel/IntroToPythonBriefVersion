@@ -10,8 +10,8 @@ if grade >= 60:
 print('Passed')  # statement is not indented properly
 
 if grade >= 60:
-    print('Passed')
-  print('Good job!)
+    print('Passed') # indented 4 spaces
+  print('Good job!) # incorrectly indented only two spaces
         
 # if Statement Flowchart
 

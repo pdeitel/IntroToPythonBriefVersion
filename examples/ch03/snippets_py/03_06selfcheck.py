@@ -1,7 +1,7 @@
 # Section 3.6 Self Check snippets
 
 # Exercise 2
-grade = 80:
+grade = 80
 
 if grade >= 90:
     print('A')
